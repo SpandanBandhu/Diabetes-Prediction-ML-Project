@@ -4,3 +4,4 @@
 ![Screenshot (85)](https://github.com/SpandanBandhu/Diabetes-Prediction-ML-Project/assets/96427941/61e5f59d-6700-47f5-a309-dc3dc661735b)
 ![Screenshot (86)](https://github.com/SpandanBandhu/Diabetes-Prediction-ML-Project/assets/96427941/53b65c37-533e-4314-b767-edb1e41688c1)
 ![Screenshot (87)](https://github.com/SpandanBandhu/Diabetes-Prediction-ML-Project/assets/96427941/cfa1b85d-0ced-4a1f-bc80-9aabc4ebd8f2)
+![Screenshot (88)](https://github.com/SpandanBandhu/Diabetes-Prediction-ML-Project/assets/96427941/3d9c0397-246a-432a-ba5b-de553a1b23f8)
